@@ -133,7 +133,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3de886502ff846619cfa87c2d51c3952"
       targetConnections="id-2caeb659cf1a4803851c9988a7926e1a"
-      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI">
+      font="1|Segoe UI|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#ffff80">
     <bounds
         x="140"
         y="216"
