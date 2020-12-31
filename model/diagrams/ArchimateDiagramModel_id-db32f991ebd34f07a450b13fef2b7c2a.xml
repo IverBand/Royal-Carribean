@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="0300 Booking Process"
+    id="id-db32f991ebd34f07a450b13fef2b7c2a">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f91e2e1fd4db432d862e4c7e80b66d8a">
+    <bounds
+        x="230"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-93e9922f17d54027bf4ac8e7798d3030.xml#id-93e9922f17d54027bf4ac8e7798d3030"/>
+  </children>
+</archimate:ArchimateDiagramModel>
